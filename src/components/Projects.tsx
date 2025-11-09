@@ -4,7 +4,7 @@ import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { ExternalLink, Github, Filter } from 'lucide-react';
 import { motion } from 'motion/react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './imgErrorHandle/ImageWithFallback';
 import { trackProjectView } from '../utils/analytics';
 
 export function Projects() {

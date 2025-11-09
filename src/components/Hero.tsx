@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from './ui/button';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { motion } from 'motion/react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './imgErrorHandle/ImageWithFallback';
 
 export function Hero() {
   const scrollToSection = (href: string) => {

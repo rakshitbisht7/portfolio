@@ -3,8 +3,9 @@ import { Card, CardContent } from './ui/card';
 import { Badge } from './ui/badge';
 import { Code, Coffee, Globe, Heart } from 'lucide-react';
 import { motion } from 'motion/react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
-import profileImage from 'figma:asset/c29b9d7891d335af1b9f05185a609b877d3413b0.png';
+import { ImageWithFallback } from './imgErrorHandle/ImageWithFallback';
+// import profileImage from 'figma:asset/c29b9d7891d335af1b9f05185a609b877d3413b0.png';
+import profileImage from '../assets/profile.png';
 
 export function About() {
   const interests = [

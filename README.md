@@ -114,7 +114,7 @@ components/
 ├── Admin Dashboard (Analytics & Contact Management)
 ├── Utilities (ErrorBoundary, SEO, LoadingSpinner)
 ├── UI Components (shadcn/ui library)
-└── Figma Integration (ImageWithFallback)
+
 ```
 
 ### **Backend API Routes**
