@@ -15,7 +15,7 @@ import {
   MessageSquare
 } from 'lucide-react';
 import { motion } from 'motion/react';
-import { toast } from "sonner@2.0.3";
+import { toast } from 'sonner';
 import { submitContactForm } from '../utils/analytics';
 
 export function Contact() {
@@ -314,7 +314,7 @@ export function Contact() {
         >
           <div className="border-t border-gray-300 pt-8">
             <p className="text-gray-600">
-              © 2025 Alex Johnson. Built with React, TypeScript, and Tailwind CSS.
+              © 2025 Rakshit Singh Bisht. Built with React, TypeScript, and Tailwind CSS.
             </p>
           </div>
         </motion.div>
